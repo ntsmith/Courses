@@ -1,0 +1,13 @@
+{
+    "name": "Courses",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    }
+}
